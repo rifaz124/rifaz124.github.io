@@ -1,0 +1,26 @@
+== Change log ==
+
+= 3.0.2 - July 27 2021 =
+* Added   :  WordPress 5.8 compatibility
+
+= 3.0.1 - June 25 2021 =
+* Fixed   :  Notice on Editor Gutenberg Editor
+* Updated   :  RTL CSS
+
+= 3.0.0 - Jan 15 2021 =
+* Added   : Advanced Demo Import
+* Added   : Links within content must be underlined
+* Removed : Acme Demo Setup Plugin from TGM
+* Updated : Getting Started experience
+* Fixed   : Breadcrumbs error on google console, $item,$attributes,$meta updates inside function trail
+* Fixed   : New theme check issues
+
+= 2.0.0 - Oct 17 2019 =
+* Added : wp_body_open hook in header
+* Added : Gutentor Plugin in TGM
+* Added : wp-config.xml file for translation
+* Added : Upgrade to pro
+* Fixed : Screen Reader Text
+
+= 1.0.0 =
+* Submitted on WordPress dot org

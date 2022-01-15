@@ -1,0 +1,109 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_portfolio-web">
+            <key name="portfolio_web_theme_options">
+                /*logo and site title*/
+                <key name="portfolio-web-display-site-logo"/>
+                <key name="portfolio-web-display-site-title"/>
+                <key name="portfolio-web-display-site-tagline"/>
+                /*header height*/
+                <key name="portfolio-web-header-height"/>
+                <key name="portfolio-web-header-image-display"/>
+
+                /*header top*/
+                <key name="portfolio-web-enable-header-top"/>
+                <key name="portfolio-web-header-top-menu-display-selection"/>
+                <key name="portfolio-web-header-top-info-display-selection"/>
+                <key name="portfolio-web-header-top-social-display-selection"/>
+
+                /*menu options*/
+                <key name="portfolio-web-menu-display-options"/>
+                <key name="portfolio-web-enable-sticky"/>
+                <key name="portfolio-web-menu-right-button-options"/>
+                <key name="portfolio-web-menu-right-button-title"/>
+                <key name="portfolio-web-menu-right-button-link"/>
+                <key name="portfolio-web-enable-cart-icon"/>
+
+                /*feature section options*/
+                <key name="portfolio-web-enable-feature"/>
+                <key name="portfolio-web-slides-data"/>
+                <key name="portfolio-web-feature-slider-enable-animation"/>
+                <key name="portfolio-web-feature-slider-display-title"/>
+                <key name="portfolio-web-feature-slider-display-excerpt"/>
+                <key name="portfolio-web-fs-image-display-options"/>
+                <key name="portfolio-web-feature-slider-text-align"/>
+                <key name="portfolio-web-slider-scroll-text"/>
+                <key name="portfolio-web-slider-scroll-link"/>
+
+                /*basic info*/
+                <key name="portfolio-web-feature-info-number"/>
+                <key name="portfolio-web-first-info-icon"/>
+                <key name="portfolio-web-first-info-title"/>
+                <key name="portfolio-web-first-info-desc"/>
+                <key name="portfolio-web-second-info-icon"/>
+                <key name="portfolio-web-second-info-title"/>
+                <key name="portfolio-web-second-info-desc"/>
+                <key name="portfolio-web-third-info-icon"/>
+                <key name="portfolio-web-third-info-title"/>
+                <key name="portfolio-web-third-info-desc"/>
+                <key name="portfolio-web-forth-info-icon"/>
+                <key name="portfolio-web-forth-info-title"/>
+                <key name="portfolio-web-forth-info-desc"/>
+
+                /*footer options*/
+                <key name="portfolio-web-footer-copyright"/>
+                <key name="portfolio-web-footer-copyright-beside-option"/>
+                <key name="portfolio-web-enable-footer-power-text"/>
+                <key name="portfolio-web-footer-site-info"/>
+                <key name="portfolio-web-footer-bg-img"/>
+
+                /*layout/design options*/
+                <key name="portfolio-web-pagination-option"/>
+
+                <key name="portfolio-web-enable-animation"/>
+
+                <key name="portfolio-web-single-sidebar-layout"/>
+                <key name="portfolio-web-front-page-sidebar-layout"/>
+                <key name="portfolio-web-archive-sidebar-layout"/>
+
+                <key name="portfolio-web-blog-archive-img-size"/>
+                <key name="portfolio-web-blog-archive-content-from"/>
+                <key name="portfolio-web-blog-archive-excerpt-length"/>
+                <key name="portfolio-web-blog-archive-more-text"/>
+
+                <key name="portfolio-web-primary-color"/>
+                <key name="portfolio-web-header-top-bg-color"/>
+                <key name="portfolio-web-footer-bg-color"/>
+                <key name="portfolio-web-footer-bottom-bg-color"/>
+                <key name="portfolio-web-link-color"/>
+                <key name="portfolio-web-link-hover-color"/>
+
+                <key name="portfolio-web-hide-front-page-content"/>
+                <key name="portfolio-web-hide-front-page-header"/>
+
+                /*woocommerce*/
+                <key name="portfolio-web-wc-shop-archive-sidebar-layout"/>
+                <key name="portfolio-web-wc-product-column-number"/>
+                <key name="portfolio-web-wc-shop-archive-total-product"/>
+                <key name="portfolio-web-wc-single-product-sidebar-layout"/>
+
+                /*single post*/
+                <key name="portfolio-web-single-header-title"/>
+                <key name="portfolio-web-single-img-size"/>
+
+                /*theme options*/
+                <key name="portfolio-web-popup-widget-title"/>
+                <key name="portfolio-web-breadcrumb-options"/>
+                <key name="portfolio-web-search-placeholder"/>
+                <key name="portfolio-web-social-data"/>
+                
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
+
+
+
+
